@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22eab6b5-00ad-476c-9ca3-378e31314432" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training_of_price_predictive_model_with_data_from_relevant_periods/prototyping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training_of_price_predictive_model_with_data_from_relevant_periods/prototyping.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
